@@ -3,9 +3,9 @@ Projeto da disciplina de Metodologias Ágeis, esse projeto é feito para calcula
 
 ## Como executar?
 - Primeiro, ative o ambiente virtual: <br />
-WINDOWS: ".venv\Scripts\activate" <br />
-LINUX: "source .venv/bin/activate" <br />
+WINDOWS: ```.venv\Scripts\activate``` <br />
+LINUX: ```source .venv/bin/activate``` <br />
 - Então, instale as dependências: <br />
-pip install -r requirements.txt <br />
+```pip install -r requirements.txt``` <br />
 - Por fim, rode os testes: <br />
-pytest -v <br />
+```pytest -v``` <br />
